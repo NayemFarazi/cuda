@@ -1,0 +1,150 @@
+@media screen and (max-width: 1310px ){
+
+    .first_half {
+	width: 100%;
+	float: none;
+	
+}
+	.second_half {
+	width: 100%;
+	float: none;
+	margin-top: 25px;
+	margin-left: 0px;
+}
+.message label {
+	top: 60px;	
+}
+   footer ul li a {
+	font-size: 20px;
+	text-transform: capitalize;
+	line-height: 2;
+    }
+
+
+}
+@media screen and (max-width: 980px){
+	.nav{
+		display: none;
+	}
+    .mobile_menu_icon{
+		display: block;
+		text-align: right;
+		font-size: 30px;
+		color: #fff;
+		cursor: pointer;
+	}
+	.container{
+	width: 95%;
+	margin: auto;
+    }
+    .testimonial_img img {
+	width: 80px;
+	height: 80px;
+    }
+    .testimonial_content h5 {
+	margin-top: 0px;
+	margin-bottom: 20px;
+   }
+   .testimonial_content h2 {
+	margin: 10px 0px 0px 0px;
+   }
+   footer ul li a {
+	font-size: 20px;
+	text-transform: capitalize;
+	line-height: 2;
+    }
+}
+
+@media screen and (max-width: 800px){
+	.service_box{
+		width: 45%;
+	}
+	.single_team_box{
+		width: 45%;
+		margin-top: 30px;
+	}
+	.team_boxs{
+		margin-top: 50px;
+	}
+	.single_skills_box {
+	width: 45%;
+	float: left;
+	text-align: center;
+	margin-left: 0px;
+    }
+
+}
+
+
+@media screen and (max-width: 660px){
+	.testimonial_single_box{
+	width: 100%;
+   }
+    .testimonial_img{
+	text-align: center;
+	width: 100%;
+	float: none;
+   }
+    .testimonial_content {
+	float: none;
+	width: 100%;
+	text-align: center;
+	margin-bottom: 60px;
+    }
+    .single_portfolio_box h2 {
+	font-size: 15px;
+    }
+}	
+
+
+@media screen and (max-width: 480px){
+     .service_box {
+	width: 100%;
+    }
+    .service_box h4 {
+	margin-top: 20px;
+	margin-bottom: -10px;
+	font-size: 20px;
+    }
+    .single_team_box {
+	width: 100%;
+	margin-top: 30px;
+    }
+    .single_team_box h5 {
+	margin-top: -15px;
+    }
+    #icon {
+	width: 20px;
+	height: 20px;
+	font-size: 20px;
+	margin-left: 5px;
+	margin-bottom: 5px;
+    }
+    .single_team_box p {
+	margin-top: -15px;
+	margin-bottom: 5px;
+    }
+    .single_skills_box {
+	width: 100%;
+	text-align: center;
+    }
+    .skills_header {
+	margin-top: 0px;
+	text-align: center;
+    }
+    .skills_boxs {
+	margin-top: 35px;
+    }
+    .single_portfolio_box {
+	width: 100%;
+	text-align: center;
+	margin-top: 20px;
+    }
+}  
+
+
+@media screen and (max-width:360px ){
+	.brown_btn {
+	width: 180px;
+    }
+}
